@@ -4,7 +4,7 @@
 
 #### Pizza sales analysis using SQL:
 
-This a combination of different datas of a pizza shop, from these data, using SQL sales analysis of pizzas in the shop is done.
+This a combination of different data sets of a pizza shop.From these data, using SQL sales analysis of pizzas in the shop is done.
 
 ## Project Components
 
